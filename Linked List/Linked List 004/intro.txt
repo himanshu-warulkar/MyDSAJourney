@@ -1,0 +1,36 @@
+Limitations of singly LL
+any node can point only one node
+you can never look back
+always goes forward
+Solution? Doubly LL
+
+Introducing DLL
+making deletion and insertion more efficient
+structure = prev. addr + val + next addr
+Node class:-
+
+class Node{
+    int val;
+    Node* next;
+    Node* prev;
+}
+
+Node(int val) {
+    this->val = val;
+    this->next = NULL;
+    this->prev = NULL;
+}
+
+
+Features/Benifits:
+Display LL in reverse order.
+If any lode is given, we can traverse through entire LL.
+
+Other types of LinkedList
+
+Circular LL
+tail->next = head;
+
+Circular Doubly LL
+No NULL attached to head or tail.
+

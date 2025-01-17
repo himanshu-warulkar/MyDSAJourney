@@ -1,0 +1,14 @@
+What is stack -> eg CD Racks
+LIFO/ FILO
+Operations on stack
+st.push(val); //adds new element at top.
+st.pop(); //delete topmost element.
+st.top(); //returns value of element at top.
+st.size(); //returns current size of stack.
+
+STL for stack
+vector<int> v;
+stack<int> st;
+
+Comparing Arrays, LL and Stacks
+
