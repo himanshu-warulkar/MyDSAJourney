@@ -1,3 +1,4 @@
 Array LL Stack Queue : Linear DS
 Graph Tree: non-linear DS
 Binary trees: 0, 1 or 2 childs
+22121 b9
