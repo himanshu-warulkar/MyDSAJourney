@@ -50,7 +50,7 @@ The repository is organized into folders based on DSA topics:
 ## **How to Use**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Aiprogrammer2305/MyDSAJourney.git
+   git clone https://github.com/himanshu-warulkar/MyDSAJourney.git
    ```
 2. Navigate to the relevant folder for the topic you're interested in.
 3. Open the source code file (`.cpp`) in your preferred editor or IDE.
